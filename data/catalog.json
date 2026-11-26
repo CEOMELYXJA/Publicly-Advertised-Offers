@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-26T10:45:25.196Z",
+  "generatedAt": "2026-11-26T19:52:43.365Z",
   "sources": [
     {
       "id": 1,
       "url": "https://thefreebieguy.com/feed/",
       "name": "The Freebie Guy · flux public",
       "status": "Accessible · 30 éléments",
-      "checked": "2026-11-26T10:45:21.376Z",
+      "checked": "2026-11-26T19:52:40.548Z",
       "enabled": 1,
       "scope": "International"
     },
@@ -15,7 +15,7 @@
       "url": "https://www.heyitsfree.net/feed/",
       "name": "Hey, It’s Free · flux public",
       "status": "Inaccessible : Analyse interdite par robots.txt",
-      "checked": "2026-11-26T10:45:21.279Z",
+      "checked": "2026-11-26T19:52:40.429Z",
       "enabled": 1,
       "scope": "International"
     },
@@ -24,7 +24,7 @@
       "url": "https://gg.deals/news/freebies/feed/",
       "name": "GG.deals · jeux gratuits",
       "status": "Accessible · 24 éléments",
-      "checked": "2026-11-26T10:45:21.518Z",
+      "checked": "2026-11-26T19:52:40.963Z",
       "enabled": 1,
       "scope": "International"
     },
@@ -33,7 +33,7 @@
       "url": "https://news.google.com/rss/search?q=free+samples+no+purchase&hl=en-CA&gl=CA&ceid=CA:en",
       "name": "Google Actualités · échantillons",
       "status": "Inaccessible : Analyse interdite par robots.txt",
-      "checked": "2026-11-26T10:45:21.292Z",
+      "checked": "2026-11-26T19:52:40.477Z",
       "enabled": 1,
       "scope": "International"
     },
@@ -42,7 +42,7 @@
       "url": "https://news.google.com/rss/search?q=offre+gratuite+sans+achat&hl=fr-CA&gl=CA&ceid=CA:fr",
       "name": "Google Actualités · offres gratuites",
       "status": "Inaccessible : Analyse interdite par robots.txt",
-      "checked": "2026-11-26T10:45:21.296Z",
+      "checked": "2026-11-26T19:52:40.481Z",
       "enabled": 1,
       "scope": "International"
     },
@@ -50,8 +50,8 @@
       "id": 6,
       "url": "https://www.canadianfreestuff.com/feed/",
       "name": "Canadian Free Stuff · Canada",
-      "status": "Inaccessible : robots.txt inaccessible : HTTP 403",
-      "checked": "2026-11-26T10:45:21.332Z",
+      "status": "Accessible · 20 éléments",
+      "checked": "2026-11-26T19:52:40.687Z",
       "enabled": 1,
       "scope": "Canada"
     },
@@ -60,7 +60,7 @@
       "url": "https://www.savealoonie.com/feed/",
       "name": "SaveaLoonie · Canada",
       "status": "Accessible · 30 éléments",
-      "checked": "2026-11-26T10:45:21.536Z",
+      "checked": "2026-11-26T19:52:40.893Z",
       "enabled": 1,
       "scope": "Canada"
     },
@@ -69,7 +69,7 @@
       "url": "https://smartcanucks.ca/feed/",
       "name": "SmartCanucks · Canada",
       "status": "Accessible · 20 éléments",
-      "checked": "2026-11-26T10:45:21.459Z",
+      "checked": "2026-11-26T19:52:40.811Z",
       "enabled": 1,
       "scope": "Canada"
     },
@@ -78,7 +78,7 @@
       "url": "https://www.canadiansavers.ca/feed/",
       "name": "Canadian Savers · Canada",
       "status": "Inaccessible : Analyse interdite par robots.txt",
-      "checked": "2026-11-26T10:45:21.537Z",
+      "checked": "2026-11-26T19:52:40.894Z",
       "enabled": 1,
       "scope": "Canada"
     },
@@ -87,7 +87,7 @@
       "url": "https://freebiescanada.ca/feed/",
       "name": "Freebies Canada · Canada",
       "status": "Accessible · 10 éléments",
-      "checked": "2026-11-26T10:45:22.008Z",
+      "checked": "2026-11-26T19:52:41.460Z",
       "enabled": 1,
       "scope": "Canada"
     },
@@ -96,7 +96,7 @@
       "url": "https://www.simplyfrugal.ca/feed/",
       "name": "Simply Frugal · Canada",
       "status": "Accessible · 30 éléments",
-      "checked": "2026-11-26T10:45:21.756Z",
+      "checked": "2026-11-26T19:52:41.386Z",
       "enabled": 1,
       "scope": "Canada"
     },
@@ -105,7 +105,7 @@
       "url": "https://canadafreebies.ca/feed/",
       "name": "Canada Freebies · Canada",
       "status": "Accessible · 10 éléments",
-      "checked": "2026-11-26T10:45:24.696Z",
+      "checked": "2026-11-26T19:52:42.518Z",
       "enabled": 1,
       "scope": "Canada"
     },
@@ -114,7 +114,7 @@
       "url": "https://tonsite.ca/feed/",
       "name": "Tonsite · Québec",
       "status": "Accessible · 2 éléments",
-      "checked": "2026-11-26T10:45:21.826Z",
+      "checked": "2026-11-26T19:52:41.663Z",
       "enabled": 1,
       "scope": "Canada"
     },
@@ -123,7 +123,7 @@
       "url": "https://www.echantillonsquebec.com/feed/",
       "name": "Échantillons Québec · Québec",
       "status": "Accessible · 10 éléments",
-      "checked": "2026-11-26T10:45:22.535Z",
+      "checked": "2026-11-26T19:52:42.222Z",
       "enabled": 1,
       "scope": "Canada"
     },
@@ -132,12 +132,327 @@
       "url": "https://www.quebec-gratuit.com/feed/",
       "name": "Québec Gratuit · Québec",
       "status": "Accessible · 10 éléments",
-      "checked": "2026-11-26T10:45:22.734Z",
+      "checked": "2026-11-26T19:52:42.593Z",
       "enabled": 1,
       "scope": "Canada"
     }
   ],
   "offers": [
+    {
+      "title": "Epic Games Store's first December FREEBIE brings cozy vibes with a dash of the occult",
+      "description": "From the developers of Strange Horticulture comes another curious adventure.",
+      "site": "gg.deals",
+      "category": "Jeu ou service gratuit",
+      "reward": "Inconnue",
+      "code": "",
+      "codeStatus": "À vérifier",
+      "codeConditions": "Inconnues",
+      "steps": "Consulter la source et vérifier les conditions.",
+      "country": "Inconnu",
+      "region": "Inconnue",
+      "restrictions": "Inconnues",
+      "fees": "Inconnus",
+      "expiry": "",
+      "officialUrl": "",
+      "withdrawal": "Inconnue",
+      "card": "Inconnue",
+      "account": "Inconnu",
+      "checks": {
+        "deposit": false,
+        "purchase": false,
+        "fees": false,
+        "subscription": false,
+        "deferred": false
+      },
+      "verification": "",
+      "status": "À vérifier",
+      "favorite": false,
+      "used": false,
+      "viewed": "",
+      "sourceType": "Analyse automatique",
+      "lastChecked": "2026-11-26T19:52:40.942Z",
+      "source": "GG.deals · jeux gratuits",
+      "sources": [
+        "GG.deals · jeux gratuits"
+      ],
+      "published": "Thu, 26 Nov 2026 16:39:42 +0000",
+      "observedText": "From the developers of Strange Horticulture comes another curious adventure.",
+      "id": 257382021846490,
+      "url": "https://gg.deals/freebie/epic-games-stores-first-december-freebie-brings-cozy-vibes-with-a-dash-of-the-occult/",
+      "created": "2026-11-26T19:52:40.943Z",
+      "updated": "2026-11-26T19:52:40.943Z",
+      "sourceRegion": "Inconnue"
+    },
+    {
+      "title": "Your Black Friday FREEBIES from Epic are here! Claim a cute co-op game & a Firestone bundle",
+      "description": "How about a little bargain hunting without spending a penny?",
+      "site": "gg.deals",
+      "category": "Jeu ou service gratuit",
+      "reward": "Inconnue",
+      "code": "",
+      "codeStatus": "À vérifier",
+      "codeConditions": "Inconnues",
+      "steps": "Consulter la source et vérifier les conditions.",
+      "country": "Inconnu",
+      "region": "Inconnue",
+      "restrictions": "Inconnues",
+      "fees": "Inconnus",
+      "expiry": "",
+      "officialUrl": "",
+      "withdrawal": "Inconnue",
+      "card": "Inconnue",
+      "account": "Inconnu",
+      "checks": {
+        "deposit": false,
+        "purchase": false,
+        "fees": false,
+        "subscription": false,
+        "deferred": false
+      },
+      "verification": "",
+      "status": "À vérifier",
+      "favorite": false,
+      "used": false,
+      "viewed": "",
+      "sourceType": "Analyse automatique",
+      "lastChecked": "2026-11-26T19:52:40.943Z",
+      "source": "GG.deals · jeux gratuits",
+      "sources": [
+        "GG.deals · jeux gratuits"
+      ],
+      "published": "Thu, 26 Nov 2026 16:00:00 +0000",
+      "observedText": "How about a little bargain hunting without spending a penny?",
+      "id": 33939066144831,
+      "url": "https://gg.deals/freebie/your-black-friday-freebies-from-epic-are-here/",
+      "created": "2026-11-26T19:52:40.943Z",
+      "updated": "2026-11-26T19:52:40.943Z",
+      "sourceRegion": "Inconnue"
+    },
+    {
+      "title": "The latest Epic Games mobile FREEBIE leaves you in a sticky situation",
+      "description": "Available to claim on Android and iOS before 16:00 UTC on December 3, 2026.",
+      "site": "gg.deals",
+      "category": "Jeu ou service gratuit",
+      "reward": "Inconnue",
+      "code": "",
+      "codeStatus": "À vérifier",
+      "codeConditions": "Inconnues",
+      "steps": "Consulter la source et vérifier les conditions.",
+      "country": "Inconnu",
+      "region": "Inconnue",
+      "restrictions": "Inconnues",
+      "fees": "Inconnus",
+      "expiry": "",
+      "officialUrl": "",
+      "withdrawal": "Inconnue",
+      "card": "Inconnue",
+      "account": "Inconnu",
+      "checks": {
+        "deposit": false,
+        "purchase": false,
+        "fees": false,
+        "subscription": false,
+        "deferred": false
+      },
+      "verification": "",
+      "status": "À vérifier",
+      "favorite": false,
+      "used": false,
+      "viewed": "",
+      "sourceType": "Analyse automatique",
+      "lastChecked": "2026-11-26T19:52:40.941Z",
+      "source": "GG.deals · jeux gratuits",
+      "sources": [
+        "GG.deals · jeux gratuits"
+      ],
+      "published": "Thu, 26 Nov 2026 17:15:00 +0000",
+      "observedText": "Available to claim on Android and iOS before 16:00 UTC on December 3, 2026.",
+      "id": 264442754243719,
+      "url": "https://gg.deals/freebie/the-latest-epic-games-mobile-freebie-leaves-you-in-a-sticky-situation/",
+      "created": "2026-11-26T19:52:40.941Z",
+      "updated": "2026-11-26T19:52:40.941Z",
+      "sourceRegion": "Inconnue"
+    },
+    {
+      "title": "FREE Warhammer 40,000: Dawn of War 4 Painter Demo is now available on Steam",
+      "description": "The Emperor protects&hellip; and paints?",
+      "site": "gg.deals",
+      "category": "Jeu ou service gratuit",
+      "reward": "Inconnue",
+      "code": "",
+      "codeStatus": "À vérifier",
+      "codeConditions": "Inconnues",
+      "steps": "Consulter la source et vérifier les conditions.",
+      "country": "Inconnu",
+      "region": "Inconnue",
+      "restrictions": "Inconnues",
+      "fees": "Inconnus",
+      "expiry": "",
+      "officialUrl": "",
+      "withdrawal": "Inconnue",
+      "card": "Inconnue",
+      "account": "Inconnu",
+      "checks": {
+        "deposit": false,
+        "purchase": false,
+        "fees": false,
+        "subscription": false,
+        "deferred": false
+      },
+      "verification": "",
+      "status": "À vérifier",
+      "favorite": false,
+      "used": false,
+      "viewed": "",
+      "sourceType": "Analyse automatique",
+      "lastChecked": "2026-11-26T19:52:40.940Z",
+      "source": "GG.deals · jeux gratuits",
+      "sources": [
+        "GG.deals · jeux gratuits"
+      ],
+      "published": "Thu, 26 Nov 2026 17:51:54 +0000",
+      "observedText": "The Emperor protects&hellip; and paints?",
+      "id": 241040941922179,
+      "url": "https://gg.deals/freebie/free-warhammer-40000-dawn-of-war-4-painter-demo-is-now-available-on-steam/",
+      "created": "2026-11-26T19:52:40.940Z",
+      "updated": "2026-11-26T19:52:40.940Z",
+      "sourceRegion": "Inconnue"
+    },
+    {
+      "title": "Get this 2D survival title FREE on Steam before it costs $6.99!",
+      "description": "In early access for just over a year, the devs will start charging for the game when its 1.0 lands on December 15.",
+      "site": "gg.deals",
+      "category": "Jeu ou service gratuit",
+      "reward": "Inconnue",
+      "code": "",
+      "codeStatus": "À vérifier",
+      "codeConditions": "Inconnues",
+      "steps": "Consulter la source et vérifier les conditions.",
+      "country": "Inconnu",
+      "region": "Inconnue",
+      "restrictions": "Inconnues",
+      "fees": "Inconnus",
+      "expiry": "",
+      "officialUrl": "",
+      "withdrawal": "Inconnue",
+      "card": "Inconnue",
+      "account": "Inconnu",
+      "checks": {
+        "deposit": false,
+        "purchase": false,
+        "fees": false,
+        "subscription": false,
+        "deferred": false
+      },
+      "verification": "",
+      "status": "À vérifier",
+      "favorite": false,
+      "used": false,
+      "viewed": "",
+      "sourceType": "Analyse automatique",
+      "lastChecked": "2026-11-26T19:52:40.939Z",
+      "source": "GG.deals · jeux gratuits",
+      "sources": [
+        "GG.deals · jeux gratuits"
+      ],
+      "published": "Thu, 26 Nov 2026 18:26:00 +0000",
+      "observedText": "In early access for just over a year, the devs will start charging for the game when its 1.0 lands on December 15.",
+      "id": 201919405318861,
+      "url": "https://gg.deals/freebie/get-this-2d-survival-title-free-on-steam-before-it-costs-699/",
+      "created": "2026-11-26T19:52:40.939Z",
+      "updated": "2026-11-26T19:52:40.939Z",
+      "sourceRegion": "Inconnue"
+    },
+    {
+      "title": "Walmart Photo Centre Deals | Free 8×10 Print",
+      "description": "Click here to view: Walmart Photo Centre Deals | Free 8×10 Print Capture your memories for every with these Walmart Photo Centre Deals. The holiday season is here and it’s time to start putting together your lists. Walmart Photo Centre offers a wide variety of prints, enlargements & custom photo gifts that friends, grandparents, aunts & uncles will love! Free 8×10 Enlargement Print Celebrate Black Friday in […] Walmart Photo Centre Deals | Free 8×10 Print",
+      "site": "www.savealoonie.com",
+      "category": "Cadeau physique",
+      "reward": "Inconnue",
+      "code": "",
+      "codeStatus": "À vérifier",
+      "codeConditions": "Inconnues",
+      "steps": "Consulter la source et vérifier les conditions.",
+      "country": "Inconnu",
+      "region": "Inconnue",
+      "restrictions": "Inconnues",
+      "fees": "Inconnus",
+      "expiry": "",
+      "officialUrl": "",
+      "withdrawal": "Inconnue",
+      "card": "Inconnue",
+      "account": "Inconnu",
+      "checks": {
+        "deposit": false,
+        "purchase": false,
+        "fees": false,
+        "subscription": false,
+        "deferred": false
+      },
+      "verification": "",
+      "status": "À vérifier",
+      "favorite": false,
+      "used": false,
+      "viewed": "",
+      "sourceType": "Analyse automatique",
+      "lastChecked": "2026-11-26T19:52:40.863Z",
+      "source": "SaveaLoonie · Canada",
+      "sources": [
+        "SaveaLoonie · Canada"
+      ],
+      "published": "Thu, 26 Nov 2026 14:39:34 +0000",
+      "observedText": "Click here to view: Walmart Photo Centre Deals | Free 8×10 Print Capture your memories for every with these Walmart Photo Centre Deals. The holiday season is here and it’s time to start putting together your lists. Walmart Photo Centre offers a wide variety of prints, enlargements & custom photo gifts that friends, grandparents, aunts & uncles will love! Free 8×10 Enlargement Print Celebrate Black Friday in […] Walmart Photo Centre Deals | Free 8×10 Print",
+      "id": 60059941161303,
+      "url": "https://www.savealoonie.com/samples-freebies/walmart-photo-centre-deals/",
+      "created": "2026-11-26T19:52:40.863Z",
+      "updated": "2026-11-26T19:52:40.863Z",
+      "sourceRegion": "Canada"
+    },
+    {
+      "title": "Staples Canada Contest – Win a Kobo Libra Colour eReader – Holiday Giveaway #1!",
+      "description": "Staples Canada was founded in 1991 and has grown into the world’s largest supplier of office products, supplies, furniture, and more. Try your hand at entering the latest Staples contests or Giveaways. New Staples Contest for Canada 2026 Staples Canada Holiday Giveaways Staples Giveaway Contest Enter now to win an amazing KOBO prize bundle in the latest Staples Giveaway. Staples Canada Contest – Win a Kobo Libra Colour eReader – Holiday Giveaway #1!",
+      "site": "www.canadianfreestuff.com",
+      "category": "Concours",
+      "reward": "Inconnue",
+      "code": "",
+      "codeStatus": "À vérifier",
+      "codeConditions": "Inconnues",
+      "steps": "Consulter la source et vérifier les conditions.",
+      "country": "Inconnu",
+      "region": "Inconnue",
+      "restrictions": "Inconnues",
+      "fees": "Inconnus",
+      "expiry": "",
+      "officialUrl": "",
+      "withdrawal": "Inconnue",
+      "card": "Inconnue",
+      "account": "Inconnu",
+      "checks": {
+        "deposit": false,
+        "purchase": false,
+        "fees": false,
+        "subscription": false,
+        "deferred": false
+      },
+      "verification": "",
+      "status": "Concours",
+      "favorite": false,
+      "used": false,
+      "viewed": "",
+      "sourceType": "Analyse automatique",
+      "lastChecked": "2026-11-26T19:52:40.667Z",
+      "source": "Canadian Free Stuff · Canada",
+      "sources": [
+        "Canadian Free Stuff · Canada"
+      ],
+      "published": "Thu, 26 Nov 2026 17:39:05 +0000",
+      "observedText": "Staples Canada was founded in 1991 and has grown into the world’s largest supplier of office products, supplies, furniture, and more. Try your hand at entering the latest Staples contests or Giveaways. New Staples Contest for Canada 2026 Staples Canada Holiday Giveaways Staples Giveaway Contest Enter now to win an amazing KOBO prize bundle in the latest Staples Giveaway. Staples Canada Contest – Win a Kobo Libra Colour eReader – Holiday Giveaway #1!",
+      "id": 132777659026092,
+      "url": "https://www.canadianfreestuff.com/staples-canada-contest/",
+      "created": "2026-11-26T19:52:40.667Z",
+      "updated": "2026-11-26T19:52:40.667Z",
+      "sourceRegion": "Canada"
+    },
     {
       "title": "Gagnez un crédit-voyage de 10 000 $ avec le concours Célébrez avec Voisin",
       "description": "Participez au concours Célébrez avec Voisin et courez la chance de remporter un crédit-voyage de 10 000 $. Une occasion unique de concrétiser vos rêves d'évasion. La date limite pour participer est le 5 janvier 2027.",
@@ -170,7 +485,7 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-26T10:45:21.825Z",
+      "lastChecked": "2026-11-26T19:52:41.662Z",
       "source": "Tonsite · Québec",
       "sources": [
         "Tonsite · Québec"
@@ -180,7 +495,7 @@
       "id": 56999798298223,
       "url": "https://tonsite.ca/gagnez-un-credit-voyage-de-10-000-avec-le-concours-celebrez-avec-voisin/",
       "created": "2026-11-26T01:59:19.354Z",
-      "updated": "2026-11-26T10:45:21.825Z",
+      "updated": "2026-11-26T19:52:41.662Z",
       "sourceRegion": "Canada"
     },
     {
@@ -215,7 +530,7 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-26T10:45:21.519Z",
+      "lastChecked": "2026-11-26T19:52:40.880Z",
       "source": "SaveaLoonie · Canada",
       "sources": [
         "SaveaLoonie · Canada"
@@ -225,7 +540,7 @@
       "id": 205338935172422,
       "url": "https://www.savealoonie.com/contest-giveaways/real-canadian-superstore-contest/",
       "created": "2026-11-26T01:59:18.346Z",
-      "updated": "2026-11-26T10:45:21.519Z",
+      "updated": "2026-11-26T19:52:40.880Z",
       "sourceRegion": "Canada"
     },
     {
@@ -260,7 +575,7 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-26T10:45:21.505Z",
+      "lastChecked": "2026-11-26T19:52:40.944Z",
       "source": "GG.deals · jeux gratuits",
       "sources": [
         "GG.deals · jeux gratuits"
@@ -270,7 +585,7 @@
       "id": 15361182518569,
       "url": "https://gg.deals/freebie/this-black-friday-you-can-try-a-week-of-nintendo-switch-online-for-free/",
       "created": "2026-11-26T01:59:18.058Z",
-      "updated": "2026-11-26T10:45:21.505Z",
+      "updated": "2026-11-26T19:52:40.944Z",
       "sourceRegion": "Inconnue"
     },
     {
@@ -530,7 +845,7 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-26T10:45:22.728Z",
+      "lastChecked": "2026-11-26T19:52:42.588Z",
       "source": "Québec Gratuit · Québec",
       "sources": [
         "Québec Gratuit · Québec"
@@ -540,7 +855,7 @@
       "id": 202457799654266,
       "url": "https://www.quebec-gratuit.com/echantillons-gratuits-de-parfums-aroma-passions/",
       "created": "2026-11-25T18:49:36.446Z",
-      "updated": "2026-11-26T10:45:22.728Z",
+      "updated": "2026-11-26T19:52:42.588Z",
       "sourceRegion": "Canada"
     },
     {
@@ -575,7 +890,7 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-26T10:45:22.729Z",
+      "lastChecked": "2026-11-26T19:52:42.589Z",
       "source": "Québec Gratuit · Québec",
       "sources": [
         "Québec Gratuit · Québec"
@@ -585,7 +900,7 @@
       "id": 192784368659101,
       "url": "https://www.quebec-gratuit.com/obtenez-gratuitement-votre-calendrier-telus-2027/",
       "created": "2026-11-25T18:49:36.446Z",
-      "updated": "2026-11-26T10:45:22.729Z",
+      "updated": "2026-11-26T19:52:42.589Z",
       "sourceRegion": "Canada"
     },
     {
@@ -665,7 +980,7 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-26T10:45:21.506Z",
+      "lastChecked": "2026-11-26T19:52:40.946Z",
       "source": "GG.deals · jeux gratuits",
       "sources": [
         "GG.deals · jeux gratuits"
@@ -675,7 +990,7 @@
       "id": 132610190544353,
       "url": "https://gg.deals/freebie/star-wars-galactic-racer-has-a-free-trial-available-for-console-players-to-jump-into/",
       "created": "2026-11-25T18:49:33.000Z",
-      "updated": "2026-11-26T10:45:21.506Z",
+      "updated": "2026-11-26T19:52:40.946Z",
       "sourceRegion": "Inconnue"
     },
     {
@@ -845,7 +1160,7 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-26T01:59:17.826Z",
+      "lastChecked": "2026-11-26T19:52:40.685Z",
       "source": "Canadian Free Stuff · Canada",
       "sources": [
         "Canadian Free Stuff · Canada"
@@ -855,7 +1170,7 @@
       "id": 103893035370492,
       "url": "https://www.canadianfreestuff.com/milestones-canada-free-sample/",
       "created": "2026-11-25T18:49:32.820Z",
-      "updated": "2026-11-26T01:59:17.826Z",
+      "updated": "2026-11-26T19:52:40.685Z",
       "sourceRegion": "Canada"
     },
     {
@@ -890,7 +1205,7 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-26T01:59:17.825Z",
+      "lastChecked": "2026-11-26T19:52:40.683Z",
       "source": "Canadian Free Stuff · Canada",
       "sources": [
         "Canadian Free Stuff · Canada"
@@ -900,7 +1215,7 @@
       "id": 132333511821860,
       "url": "https://www.canadianfreestuff.com/petsmart-canada-free-sample/",
       "created": "2026-11-25T18:49:32.819Z",
-      "updated": "2026-11-26T01:59:17.825Z",
+      "updated": "2026-11-26T19:52:40.683Z",
       "sourceRegion": "Canada"
     },
     {
@@ -1880,7 +2195,7 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-26T10:45:21.507Z",
+      "lastChecked": "2026-11-26T19:52:40.947Z",
       "source": "GG.deals · jeux gratuits",
       "sources": [
         "GG.deals · jeux gratuits"
@@ -1890,7 +2205,7 @@
       "id": 193429591262676,
       "url": "https://gg.deals/freebie/new-free-games-this-weekend-november-21-22-2026-your-comprehensive-roundup/",
       "created": "2026-11-21T18:20:10.860Z",
-      "updated": "2026-11-26T10:45:21.507Z",
+      "updated": "2026-11-26T19:52:40.947Z",
       "sourceRegion": "Inconnue"
     },
     {
@@ -2645,7 +2960,7 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-26T10:45:21.508Z",
+      "lastChecked": "2026-11-26T19:52:40.950Z",
       "source": "GG.deals · jeux gratuits",
       "sources": [
         "GG.deals · jeux gratuits"
@@ -2655,7 +2970,7 @@
       "id": 111023091129431,
       "url": "https://gg.deals/freebie/lenovo-has-another-free-steam-key-giveaway-lined-up-and-were-not-just-quacking-around/",
       "created": "2026-11-20T00:39:26.889Z",
-      "updated": "2026-11-26T10:45:21.508Z",
+      "updated": "2026-11-26T19:52:40.950Z",
       "sourceRegion": "Inconnue"
     },
     {
@@ -2690,7 +3005,7 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-26T10:45:21.508Z",
+      "lastChecked": "2026-11-26T19:52:40.949Z",
       "source": "GG.deals · jeux gratuits",
       "sources": [
         "GG.deals · jeux gratuits"
@@ -2700,7 +3015,7 @@
       "id": 210381201648348,
       "url": "https://gg.deals/freebie/steam-free-weekend-dark-fantasy-extraction-and-global-conquest-playable-until-monday/",
       "created": "2026-11-20T00:39:26.888Z",
-      "updated": "2026-11-26T10:45:21.508Z",
+      "updated": "2026-11-26T19:52:40.949Z",
       "sourceRegion": "Inconnue"
     },
     {
@@ -2735,7 +3050,7 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-26T10:45:21.507Z",
+      "lastChecked": "2026-11-26T19:52:40.948Z",
       "source": "GG.deals · jeux gratuits",
       "sources": [
         "GG.deals · jeux gratuits"
@@ -2745,7 +3060,7 @@
       "id": 132167016755280,
       "url": "https://gg.deals/freebie/world-of-warships-is-giving-away-a-free-dlc-pack-to-mark-9-years-on-steam/",
       "created": "2026-11-20T00:39:26.887Z",
-      "updated": "2026-11-26T10:45:21.507Z",
+      "updated": "2026-11-26T19:52:40.948Z",
       "sourceRegion": "Inconnue"
     },
     {
@@ -2960,7 +3275,7 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-26T10:45:21.505Z",
+      "lastChecked": "2026-11-26T19:52:40.945Z",
       "source": "GG.deals · jeux gratuits",
       "sources": [
         "GG.deals · jeux gratuits"
@@ -2970,7 +3285,7 @@
       "id": 102114999443130,
       "url": "https://gg.deals/freebie/a-pirate-adventure-awaits-mark-of-the-deep-is-free-on-the-epic-games-store/",
       "created": "2026-11-19T18:10:13.312Z",
-      "updated": "2026-11-26T10:45:21.506Z",
+      "updated": "2026-11-26T19:52:40.945Z",
       "sourceRegion": "Inconnue"
     },
     {
@@ -3005,7 +3320,7 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-26T10:45:21.509Z",
+      "lastChecked": "2026-11-26T19:52:40.952Z",
       "source": "GG.deals · jeux gratuits",
       "sources": [
         "GG.deals · jeux gratuits"
@@ -3015,7 +3330,7 @@
       "id": 14610970591262,
       "url": "https://gg.deals/freebie/next-week-epic-games-store-will-offer-a-co-op-penguin-platformer-and-a-firestone-item-bundle-for-free/",
       "created": "2026-11-19T18:10:13.311Z",
-      "updated": "2026-11-26T10:45:21.509Z",
+      "updated": "2026-11-26T19:52:40.952Z",
       "sourceRegion": "Inconnue"
     },
     {
@@ -3050,7 +3365,7 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-26T10:45:21.509Z",
+      "lastChecked": "2026-11-26T19:52:40.951Z",
       "source": "GG.deals · jeux gratuits",
       "sources": [
         "GG.deals · jeux gratuits"
@@ -3060,7 +3375,7 @@
       "id": 244622213793358,
       "url": "https://gg.deals/freebie/the-latest-epic-games-mobile-freebie-welcomes-players-to-a-village-of-secrets-and-mysteries/",
       "created": "2026-11-19T18:10:13.310Z",
-      "updated": "2026-11-26T10:45:21.509Z",
+      "updated": "2026-11-26T19:52:40.951Z",
       "sourceRegion": "Inconnue"
     },
     {
@@ -3320,7 +3635,7 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-26T10:45:21.510Z",
+      "lastChecked": "2026-11-26T19:52:40.953Z",
       "source": "GG.deals · jeux gratuits",
       "sources": [
         "GG.deals · jeux gratuits"
@@ -3330,7 +3645,7 @@
       "id": 23989371533064,
       "url": "https://gg.deals/freebie/the-blood-of-dawnwalkers-substantial-free-new-game-update-has-arrived-for-all-players/",
       "created": "2026-11-19T01:14:39.026Z",
-      "updated": "2026-11-26T10:45:21.510Z",
+      "updated": "2026-11-26T19:52:40.953Z",
       "sourceRegion": "Inconnue"
     },
     {
@@ -3500,7 +3815,7 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-26T10:45:21.511Z",
+      "lastChecked": "2026-11-26T19:52:40.955Z",
       "source": "GG.deals · jeux gratuits",
       "sources": [
         "GG.deals · jeux gratuits"
@@ -3510,7 +3825,7 @@
       "id": 242067649352581,
       "url": "https://gg.deals/freebie/want-to-try-goty-contender-control-resonant-free/",
       "created": "2026-11-18T19:09:50.162Z",
-      "updated": "2026-11-26T10:45:21.511Z",
+      "updated": "2026-11-26T19:52:40.955Z",
       "sourceRegion": "Inconnue"
     },
     {
@@ -3545,7 +3860,7 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-26T10:45:21.510Z",
+      "lastChecked": "2026-11-26T19:52:40.954Z",
       "source": "GG.deals · jeux gratuits",
       "sources": [
         "GG.deals · jeux gratuits"
@@ -3555,7 +3870,7 @@
       "id": 41375016396862,
       "url": "https://gg.deals/freebie/want-a-free-devolver-digital-game-delete-grand-theft-auto-vi-and-it-could-be-yours/",
       "created": "2026-11-18T19:09:50.117Z",
-      "updated": "2026-11-26T10:45:21.510Z",
+      "updated": "2026-11-26T19:52:40.954Z",
       "sourceRegion": "Inconnue"
     },
     {
@@ -3815,7 +4130,7 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-26T10:45:21.512Z",
+      "lastChecked": "2026-11-26T19:52:40.956Z",
       "source": "GG.deals · jeux gratuits",
       "sources": [
         "GG.deals · jeux gratuits"
@@ -3825,7 +4140,7 @@
       "id": 244672653874802,
       "url": "https://gg.deals/freebie/time-to-clean-up-grab-this-new-surprise-epic-games-freebie-before-it-expires/",
       "created": "2026-11-17T20:25:38.836Z",
-      "updated": "2026-11-26T10:45:21.512Z",
+      "updated": "2026-11-26T19:52:40.956Z",
       "sourceRegion": "Inconnue"
     },
     {
@@ -4535,7 +4850,7 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-26T10:45:21.513Z",
+      "lastChecked": "2026-11-26T19:52:40.958Z",
       "source": "GG.deals · jeux gratuits",
       "sources": [
         "GG.deals · jeux gratuits"
@@ -4545,7 +4860,7 @@
       "id": 118393728058148,
       "url": "https://gg.deals/freebie/thousands-of-players-are-trying-dirt-towns-free-steam-demo-fancy-digging-in/",
       "created": "2026-11-16T20:32:56.751Z",
-      "updated": "2026-11-26T10:45:21.513Z",
+      "updated": "2026-11-26T19:52:40.958Z",
       "sourceRegion": "Inconnue"
     },
     {
@@ -4580,7 +4895,7 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-26T10:45:21.512Z",
+      "lastChecked": "2026-11-26T19:52:40.957Z",
       "source": "GG.deals · jeux gratuits",
       "sources": [
         "GG.deals · jeux gratuits"
@@ -4590,7 +4905,7 @@
       "id": 116146617969866,
       "url": "https://gg.deals/freebie/escape-from-tarkovs-free-november-twitch-drops-bring-hawaiian-shirts-to-the-battlefield/",
       "created": "2026-11-16T20:32:56.750Z",
-      "updated": "2026-11-26T10:45:21.512Z",
+      "updated": "2026-11-26T19:52:40.957Z",
       "sourceRegion": "Inconnue"
     },
     {
@@ -5075,7 +5390,7 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-26T10:45:21.513Z",
+      "lastChecked": "2026-11-26T19:52:40.959Z",
       "source": "GG.deals · jeux gratuits",
       "sources": [
         "GG.deals · jeux gratuits"
@@ -5085,7 +5400,7 @@
       "id": 86710805225391,
       "url": "https://gg.deals/freebie/new-free-games-this-weekend-november-14-15-2026-your-comprehensive-roundup/",
       "created": "2026-11-14T15:18:28.536Z",
-      "updated": "2026-11-26T10:45:21.513Z",
+      "updated": "2026-11-26T19:52:40.959Z",
       "sourceRegion": "Inconnue"
     },
     {
@@ -5165,7 +5480,7 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-26T10:45:21.514Z",
+      "lastChecked": "2026-11-26T19:52:40.960Z",
       "source": "GG.deals · jeux gratuits",
       "sources": [
         "GG.deals · jeux gratuits"
@@ -5175,7 +5490,7 @@
       "id": 3923535047103,
       "url": "https://gg.deals/freebie/battlefield-6-free-trial-makes-a-comeback-with-four-days-of-nonstop-shooting/",
       "created": "2026-11-13T21:39:32.437Z",
-      "updated": "2026-11-26T10:45:21.514Z",
+      "updated": "2026-11-26T19:52:40.960Z",
       "sourceRegion": "Inconnue"
     },
     {
@@ -5660,7 +5975,7 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-26T10:45:21.515Z",
+      "lastChecked": "2026-11-26T19:52:40.962Z",
       "source": "GG.deals · jeux gratuits",
       "sources": [
         "GG.deals · jeux gratuits"
@@ -5670,7 +5985,7 @@
       "id": 130707422378862,
       "url": "https://gg.deals/freebie/the-new-epic-games-mobile-freebie-probably-looks-very-familiar/",
       "created": "2026-11-12T19:49:50.184Z",
-      "updated": "2026-11-26T10:45:21.515Z",
+      "updated": "2026-11-26T19:52:40.962Z",
       "sourceRegion": "Inconnue"
     },
     {
@@ -5750,7 +6065,7 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-26T10:45:21.514Z",
+      "lastChecked": "2026-11-26T19:52:40.961Z",
       "source": "GG.deals · jeux gratuits",
       "sources": [
         "GG.deals · jeux gratuits"
@@ -5760,7 +6075,7 @@
       "id": 127709370130477,
       "url": "https://gg.deals/freebie/steam-free-weekend-procedurally-generated-caves-sprawling-cities-and-more-to-explore/",
       "created": "2026-11-12T19:49:50.183Z",
-      "updated": "2026-11-26T10:45:21.514Z",
+      "updated": "2026-11-26T19:52:40.961Z",
       "sourceRegion": "Inconnue"
     },
     {
@@ -6155,7 +6470,7 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-26T10:45:22.002Z",
+      "lastChecked": "2026-11-26T19:52:41.451Z",
       "source": "Freebies Canada · Canada",
       "sources": [
         "Freebies Canada · Canada"
@@ -6165,7 +6480,7 @@
       "id": 177123616008622,
       "url": "https://freebiescanada.ca/free-2027-telus-critter-calendar/",
       "created": "2026-11-12T03:45:01.390Z",
-      "updated": "2026-11-26T10:45:22.003Z",
+      "updated": "2026-11-26T19:52:41.451Z",
       "sourceRegion": "Canada"
     },
     {
@@ -9544,10 +9859,10 @@
       "sourceRegion": "Inconnue"
     },
     {
-      "title": "2026 Black Friday Freebies in November – FREE Events, Samples & MORE!",
-      "description": "Hey, freebie hunters! 🔥 Get ready for Black Friday freebies throughout November! At The Freebie Guy, we’re all about spotting zero-cost deals to make your holiday season a bit brighter (and more affordable). 2026 Black Friday Freebies & Food Deals in November Freebies for November These are confirmed events for Black Friday month! We’ll be adding more as we find them! Academy Sports – Line-up early for a chance to win! Continue reading 2026 Black Friday Freebies in November – FREE Events, Samples & MORE! at The Freebie Guy®.",
+      "title": "2026 Black Friday Freebies | Gift Cards at Target, Buckets of Gifts at Lowe’s & More!",
+      "description": "Hey, freebie hunters! 🔥 Get ready for Black Friday freebies throughout November! At The Freebie Guy, we’re all about spotting zero-cost deals to make your holiday season a bit brighter (and more affordable). 2026 Black Friday Freebies & Food Deals in November Freebies for November These are confirmed events for Black Friday month! We’ll be adding more as we find them! Academy Sports – Line-up early for a chance to win! Continue reading 2026 Black Friday Freebies | Gift Cards at Target, Buckets of Gifts at Lowe’s & More! at The Freebie Guy®.",
       "site": "thefreebieguy.com",
-      "category": "Échantillon",
+      "category": "Cadeau physique",
       "reward": "Inconnue",
       "code": "",
       "codeStatus": "À vérifier",
@@ -9575,17 +9890,17 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-24T15:29:24.083Z",
+      "lastChecked": "2026-11-26T19:52:40.540Z",
       "source": "The Freebie Guy · flux public",
       "sources": [
         "The Freebie Guy · flux public"
       ],
-      "published": "Tue, 24 Nov 2026 01:59:25 +0000",
-      "observedText": "Hey, freebie hunters! 🔥 Get ready for Black Friday freebies throughout November! At The Freebie Guy, we’re all about spotting zero-cost deals to make your holiday season a bit brighter (and more affordable). 2026 Black Friday Freebies & Food Deals in November Freebies for November These are confirmed events for Black Friday month! We’ll be adding more as we find them! Academy Sports – Line-up early for a chance to win! Continue reading 2026 Black Friday Freebies in November – FREE Events, Samples & MORE! at The Freebie Guy®.",
+      "published": "Thu, 26 Nov 2026 16:51:25 +0000",
+      "observedText": "Hey, freebie hunters! 🔥 Get ready for Black Friday freebies throughout November! At The Freebie Guy, we’re all about spotting zero-cost deals to make your holiday season a bit brighter (and more affordable). 2026 Black Friday Freebies & Food Deals in November Freebies for November These are confirmed events for Black Friday month! We’ll be adding more as we find them! Academy Sports – Line-up early for a chance to win! Continue reading 2026 Black Friday Freebies | Gift Cards at Target, Buckets of Gifts at Lowe’s & More! at The Freebie Guy®.",
       "id": 219934283424854,
       "url": "https://thefreebieguy.com/black-friday-freebies-deals/",
       "created": "2026-11-06T17:24:16.196Z",
-      "updated": "2026-11-24T15:29:24.083Z",
+      "updated": "2026-11-26T19:52:40.540Z",
       "sourceRegion": "Inconnue"
     },
     {
@@ -9724,8 +10039,8 @@
       "sourceRegion": "Inconnue"
     },
     {
-      "title": "Free PC Games on the Epic Game Store through 11/19!",
-      "description": "Explore an exciting opportunity to grab a free PC game or other goodies on the Epic Games Store! This offer recurs regularly, showcasing new games and freebies each week. Right now, you can claim the complimentary game(s): Knightica. Be sure to come back for the upcoming free game(s) on November 19th, 2026 (10 am). Plus, you can get a new free game every Thursday on Mobile, the current FREE game is Knightica. Continue reading Free PC Games on the Epic Game Store through 11/19! at The Freebie Guy®.",
+      "title": "Free PC Games on the Epic Game Store through 12/3!",
+      "description": "Explore an exciting opportunity to grab a free PC game or other goodies on the Epic Games Store! This offer recurs regularly, showcasing new games and freebies each week. Right now, you can claim the complimentary game(s): Bread & Fred & Firestone – Idle Clicker Online RPG. Be sure to come back for the upcoming free game(s) on December 3rd, 2026 (10 am). Plus, you can get a new free game every Thursday on Mobile, the current FREE game is A Tiny Sticker Tale. Continue reading Free PC Games on the Epic Game Store through 12/3! at The Freebie Guy®.",
       "site": "thefreebieguy.com",
       "category": "Jeu ou service gratuit",
       "reward": "Inconnue",
@@ -9755,17 +10070,17 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-13T07:25:34.537Z",
+      "lastChecked": "2026-11-26T19:52:40.515Z",
       "source": "The Freebie Guy · flux public",
       "sources": [
         "The Freebie Guy · flux public"
       ],
-      "published": "Thu, 12 Nov 2026 22:25:26 +0000",
-      "observedText": "Explore an exciting opportunity to grab a free PC game or other goodies on the Epic Games Store! This offer recurs regularly, showcasing new games and freebies each week. Right now, you can claim the complimentary game(s): Knightica. Be sure to come back for the upcoming free game(s) on November 19th, 2026 (10 am). Plus, you can get a new free game every Thursday on Mobile, the current FREE game is Knightica. Continue reading Free PC Games on the Epic Game Store through 11/19! at The Freebie Guy®.",
+      "published": "Thu, 26 Nov 2026 19:40:26 +0000",
+      "observedText": "Explore an exciting opportunity to grab a free PC game or other goodies on the Epic Games Store! This offer recurs regularly, showcasing new games and freebies each week. Right now, you can claim the complimentary game(s): Bread & Fred & Firestone – Idle Clicker Online RPG. Be sure to come back for the upcoming free game(s) on December 3rd, 2026 (10 am). Plus, you can get a new free game every Thursday on Mobile, the current FREE game is A Tiny Sticker Tale. Continue reading Free PC Games on the Epic Game Store through 12/3! at The Freebie Guy®.",
       "id": 255116392711319,
       "url": "https://thefreebieguy.com/free-pc-game-on-epic-games/",
       "created": "2026-11-06T02:47:13.563Z",
-      "updated": "2026-11-13T07:25:34.537Z",
+      "updated": "2026-11-26T19:52:40.515Z",
       "sourceRegion": "Inconnue"
     },
     {
@@ -9994,8 +10309,8 @@
       "sourceRegion": "Inconnue"
     },
     {
-      "title": "Free PC Optimum Points Coupons – NEW – Get $2 off Ziploc Brand Freezer Bags",
-      "description": "Collect Points? Think PC Optimum Points Coupons! PC Optimum loyalty points are one of Canada’s favourite savings programs! And now, P&G has joined President’s Choice in these exclusive coupons to get Extra Points while you shop! This is a great way to get FREE Optimum points when you are purchasing products. Free PC Optimum Points Coupons – NEW – Get $2 off Ziploc Brand Freezer Bags",
+      "title": "Free PC Optimum Points Coupons – NEW – Get $3 off Butchers Board Pizza",
+      "description": "Collect Points? Think PC Optimum Points Coupons! PC Optimum loyalty points are one of Canada’s favourite savings programs! And now, P&G has joined President’s Choice in these exclusive coupons to get Extra Points while you shop! This is a great way to get FREE Optimum points when you are purchasing products. Free PC Optimum Points Coupons – NEW – Get $3 off Butchers Board Pizza",
       "site": "www.canadianfreestuff.com",
       "category": "Code promotionnel",
       "reward": "Inconnue",
@@ -10025,17 +10340,17 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-21T18:20:10.854Z",
+      "lastChecked": "2026-11-26T19:52:40.673Z",
       "source": "Canadian Free Stuff · Canada",
       "sources": [
         "Canadian Free Stuff · Canada"
       ],
-      "published": "Fri, 20 Nov 2026 21:15:10 +0000",
-      "observedText": "Collect Points? Think PC Optimum Points Coupons! PC Optimum loyalty points are one of Canada’s favourite savings programs! And now, P&G has joined President’s Choice in these exclusive coupons to get Extra Points while you shop! This is a great way to get FREE Optimum points when you are purchasing products. Free PC Optimum Points Coupons – NEW – Get $2 off Ziploc Brand Freezer Bags",
+      "published": "Thu, 26 Nov 2026 16:47:10 +0000",
+      "observedText": "Collect Points? Think PC Optimum Points Coupons! PC Optimum loyalty points are one of Canada’s favourite savings programs! And now, P&G has joined President’s Choice in these exclusive coupons to get Extra Points while you shop! This is a great way to get FREE Optimum points when you are purchasing products. Free PC Optimum Points Coupons – NEW – Get $3 off Butchers Board Pizza",
       "id": 247251226818691,
       "url": "https://www.canadianfreestuff.com/pc-optimum-points-coupons/",
       "created": "2026-11-05T22:24:54.679Z",
-      "updated": "2026-11-21T18:20:10.854Z",
+      "updated": "2026-11-26T19:52:40.673Z",
       "sourceRegion": "Canada"
     },
     {
@@ -11420,7 +11735,7 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-26T10:45:22.007Z",
+      "lastChecked": "2026-11-26T19:52:41.457Z",
       "source": "Freebies Canada · Canada",
       "sources": [
         "Freebies Canada · Canada"
@@ -11430,7 +11745,7 @@
       "id": 272381917817506,
       "url": "https://freebiescanada.ca/free-cone-day-ben-jerrys/",
       "created": "2026-11-04T06:48:29.230Z",
-      "updated": "2026-11-26T10:45:22.007Z",
+      "updated": "2026-11-26T19:52:41.458Z",
       "sourceRegion": "Canada"
     },
     {
@@ -11465,7 +11780,7 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-26T10:45:24.694Z",
+      "lastChecked": "2026-11-26T19:52:42.516Z",
       "source": "Canada Freebies · Canada",
       "sources": [
         "Canada Freebies · Canada"
@@ -11475,7 +11790,7 @@
       "id": 212595517809440,
       "url": "https://www.canadafreebies.ca/free-fuze-iced-tea/",
       "created": "2026-11-04T06:41:20.571Z",
-      "updated": "2026-11-26T10:45:24.694Z",
+      "updated": "2026-11-26T19:52:42.516Z",
       "sourceRegion": "Canada"
     },
     {
@@ -11510,7 +11825,7 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-26T10:45:24.696Z",
+      "lastChecked": "2026-11-26T19:52:42.517Z",
       "source": "Canada Freebies · Canada",
       "sources": [
         "Canada Freebies · Canada"
@@ -11520,7 +11835,7 @@
       "id": 28378982188240,
       "url": "https://www.canadafreebies.ca/free-old-el-paso-taco-holder-from-general-mills/",
       "created": "2026-11-04T06:41:20.571Z",
-      "updated": "2026-11-26T10:45:24.696Z",
+      "updated": "2026-11-26T19:52:42.517Z",
       "sourceRegion": "Canada"
     },
     {
@@ -11555,7 +11870,7 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-26T10:45:24.696Z",
+      "lastChecked": "2026-11-26T19:52:42.517Z",
       "source": "Canada Freebies · Canada",
       "sources": [
         "Canada Freebies · Canada"
@@ -11565,7 +11880,7 @@
       "id": 164020835523374,
       "url": "https://www.canadafreebies.ca/free-nutree-hair-mask-sample/",
       "created": "2026-11-04T06:41:20.571Z",
-      "updated": "2026-11-26T10:45:24.696Z",
+      "updated": "2026-11-26T19:52:42.517Z",
       "sourceRegion": "Canada"
     },
     {
@@ -11600,7 +11915,7 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-26T10:45:24.693Z",
+      "lastChecked": "2026-11-26T19:52:42.515Z",
       "source": "Canada Freebies · Canada",
       "sources": [
         "Canada Freebies · Canada"
@@ -11610,7 +11925,7 @@
       "id": 254610498483472,
       "url": "https://www.canadafreebies.ca/free-temptations-lickable-spoons/",
       "created": "2026-11-04T06:41:20.570Z",
-      "updated": "2026-11-26T10:45:24.693Z",
+      "updated": "2026-11-26T19:52:42.515Z",
       "sourceRegion": "Canada"
     },
     {
@@ -11645,7 +11960,7 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-26T10:45:24.694Z",
+      "lastChecked": "2026-11-26T19:52:42.515Z",
       "source": "Canada Freebies · Canada",
       "sources": [
         "Canada Freebies · Canada"
@@ -11655,7 +11970,7 @@
       "id": 100992549470432,
       "url": "https://www.canadafreebies.ca/free-olay-retinol24-samples/",
       "created": "2026-11-04T06:41:20.570Z",
-      "updated": "2026-11-26T10:45:24.694Z",
+      "updated": "2026-11-26T19:52:42.515Z",
       "sourceRegion": "Canada"
     },
     {
@@ -11690,7 +12005,7 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-26T10:45:24.692Z",
+      "lastChecked": "2026-11-26T19:52:42.513Z",
       "source": "Canada Freebies · Canada",
       "sources": [
         "Canada Freebies · Canada"
@@ -11700,7 +12015,7 @@
       "id": 255812611362247,
       "url": "https://www.canadafreebies.ca/free-gucci-flora-gorgeous-gardenia-intense-eau-de-parfum-sample/",
       "created": "2026-11-04T06:41:20.569Z",
-      "updated": "2026-11-26T10:45:24.692Z",
+      "updated": "2026-11-26T19:52:42.513Z",
       "sourceRegion": "Canada"
     },
     {
@@ -11735,7 +12050,7 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-26T10:45:24.692Z",
+      "lastChecked": "2026-11-26T19:52:42.514Z",
       "source": "Canada Freebies · Canada",
       "sources": [
         "Canada Freebies · Canada"
@@ -11745,7 +12060,7 @@
       "id": 273222762260707,
       "url": "https://www.canadafreebies.ca/free-whiskas-pouches-samples/",
       "created": "2026-11-04T06:41:20.569Z",
-      "updated": "2026-11-26T10:45:24.692Z",
+      "updated": "2026-11-26T19:52:42.514Z",
       "sourceRegion": "Canada"
     },
     {
@@ -11780,7 +12095,7 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-26T10:45:24.693Z",
+      "lastChecked": "2026-11-26T19:52:42.514Z",
       "source": "Canada Freebies · Canada",
       "sources": [
         "Canada Freebies · Canada"
@@ -11790,7 +12105,7 @@
       "id": 239561813409390,
       "url": "https://www.canadafreebies.ca/free-pedigree-choice-cuts-in-gravy-pouches/",
       "created": "2026-11-04T06:41:20.569Z",
-      "updated": "2026-11-26T10:45:24.693Z",
+      "updated": "2026-11-26T19:52:42.514Z",
       "sourceRegion": "Canada"
     },
     {
@@ -11825,7 +12140,7 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-26T10:45:24.691Z",
+      "lastChecked": "2026-11-26T19:52:42.513Z",
       "source": "Canada Freebies · Canada",
       "sources": [
         "Canada Freebies · Canada"
@@ -11835,7 +12150,7 @@
       "id": 257359274216556,
       "url": "https://www.canadafreebies.ca/free-canadian-wildlife-federation-wildlife-calendar/",
       "created": "2026-11-04T06:41:20.568Z",
-      "updated": "2026-11-26T10:45:24.691Z",
+      "updated": "2026-11-26T19:52:42.513Z",
       "sourceRegion": "Canada"
     },
     {
@@ -11870,7 +12185,7 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-26T10:45:24.690Z",
+      "lastChecked": "2026-11-26T19:52:42.510Z",
       "source": "Canada Freebies · Canada",
       "sources": [
         "Canada Freebies · Canada"
@@ -11880,7 +12195,7 @@
       "id": 11782426351677,
       "url": "https://www.canadafreebies.ca/free-biosteel-hydration-mix-sample-pack/",
       "created": "2026-11-04T06:41:20.567Z",
-      "updated": "2026-11-26T10:45:24.690Z",
+      "updated": "2026-11-26T19:52:42.510Z",
       "sourceRegion": "Canada"
     },
     {
@@ -11915,7 +12230,7 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-26T10:45:22.533Z",
+      "lastChecked": "2026-11-26T19:52:42.218Z",
       "source": "Échantillons Québec · Québec",
       "sources": [
         "Échantillons Québec · Québec"
@@ -11925,7 +12240,7 @@
       "id": 116434649502922,
       "url": "https://www.echantillonsquebec.com/echantillons-gratuits/nourriture-et-boissons/echantillons-de-produits-knorr-4/",
       "created": "2026-11-04T06:41:20.262Z",
-      "updated": "2026-11-26T10:45:22.533Z",
+      "updated": "2026-11-26T19:52:42.218Z",
       "sourceRegion": "Canada"
     },
     {
@@ -11960,7 +12275,7 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-26T10:45:22.534Z",
+      "lastChecked": "2026-11-26T19:52:42.220Z",
       "source": "Échantillons Québec · Québec",
       "sources": [
         "Échantillons Québec · Québec"
@@ -11970,7 +12285,7 @@
       "id": 190941278975864,
       "url": "https://www.echantillonsquebec.com/echantillons-gratuits/echantillons-gratuits-produits-de-beaute/reclamez-les-echantillons-biore/",
       "created": "2026-11-04T06:41:20.262Z",
-      "updated": "2026-11-26T10:45:22.534Z",
+      "updated": "2026-11-26T19:52:42.220Z",
       "sourceRegion": "Canada"
     },
     {
@@ -12005,7 +12320,7 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-26T10:45:22.532Z",
+      "lastChecked": "2026-11-26T19:52:42.216Z",
       "source": "Échantillons Québec · Québec",
       "sources": [
         "Échantillons Québec · Québec"
@@ -12015,7 +12330,7 @@
       "id": 78181807430893,
       "url": "https://www.echantillonsquebec.com/echantillons-gratuits/echantillons-gratuits-produits-de-beaute/reclamez-vos-echantillons-crest-2/",
       "created": "2026-11-04T06:41:20.261Z",
-      "updated": "2026-11-26T10:45:22.532Z",
+      "updated": "2026-11-26T19:52:42.216Z",
       "sourceRegion": "Canada"
     },
     {
@@ -12050,7 +12365,7 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-26T10:45:22.532Z",
+      "lastChecked": "2026-11-26T19:52:42.217Z",
       "source": "Échantillons Québec · Québec",
       "sources": [
         "Échantillons Québec · Québec"
@@ -12060,7 +12375,7 @@
       "id": 170552023940714,
       "url": "https://www.echantillonsquebec.com/echantillons-gratuits/nourriture-et-boissons/echantillons-de-produits-old-el-paso-5/",
       "created": "2026-11-04T06:41:20.261Z",
-      "updated": "2026-11-26T10:45:22.532Z",
+      "updated": "2026-11-26T19:52:42.217Z",
       "sourceRegion": "Canada"
     },
     {
@@ -12095,7 +12410,7 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-26T10:45:22.531Z",
+      "lastChecked": "2026-11-26T19:52:42.214Z",
       "source": "Échantillons Québec · Québec",
       "sources": [
         "Échantillons Québec · Québec"
@@ -12105,7 +12420,7 @@
       "id": 112489131829013,
       "url": "https://www.echantillonsquebec.com/echantillons-gratuits/echantillons-gratuits-produits-de-beaute/recevez-gratuitement-vos-serviettes-always-infinity-8/",
       "created": "2026-11-04T06:41:20.260Z",
-      "updated": "2026-11-26T10:45:22.531Z",
+      "updated": "2026-11-26T19:52:42.214Z",
       "sourceRegion": "Canada"
     },
     {
@@ -12140,7 +12455,7 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-26T10:45:22.529Z",
+      "lastChecked": "2026-11-26T19:52:42.211Z",
       "source": "Échantillons Québec · Québec",
       "sources": [
         "Échantillons Québec · Québec"
@@ -12150,7 +12465,7 @@
       "id": 62699407861374,
       "url": "https://www.echantillonsquebec.com/echantillons-gratuits/maison-et-jardin/reclamez-vos-echantillons-spongetowels-9/",
       "created": "2026-11-04T06:41:20.257Z",
-      "updated": "2026-11-26T10:45:22.529Z",
+      "updated": "2026-11-26T19:52:42.211Z",
       "sourceRegion": "Canada"
     },
     {
@@ -12320,7 +12635,7 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-26T10:45:21.755Z",
+      "lastChecked": "2026-11-26T19:52:41.383Z",
       "source": "Simply Frugal · Canada",
       "sources": [
         "Simply Frugal · Canada"
@@ -12330,7 +12645,7 @@
       "id": 2051060243988,
       "url": "https://www.simplyfrugal.ca/16-ways-to-treat-yourself-for-free/",
       "created": "2026-11-04T06:41:18.892Z",
-      "updated": "2026-11-26T10:45:21.755Z",
+      "updated": "2026-11-26T19:52:41.383Z",
       "sourceRegion": "Canada"
     },
     {
@@ -12365,7 +12680,7 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-26T10:45:21.752Z",
+      "lastChecked": "2026-11-26T19:52:41.378Z",
       "source": "Simply Frugal · Canada",
       "sources": [
         "Simply Frugal · Canada"
@@ -12375,7 +12690,7 @@
       "id": 17264126681628,
       "url": "https://www.simplyfrugal.ca/fall-bucket-list-for-frugal-people/",
       "created": "2026-11-04T06:41:18.888Z",
-      "updated": "2026-11-26T10:45:21.752Z",
+      "updated": "2026-11-26T19:52:41.378Z",
       "sourceRegion": "Canada"
     },
     {
@@ -12500,7 +12815,7 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-26T10:45:22.005Z",
+      "lastChecked": "2026-11-26T19:52:41.455Z",
       "source": "Freebies Canada · Canada",
       "sources": [
         "Freebies Canada · Canada"
@@ -12510,7 +12825,7 @@
       "id": 59190330326487,
       "url": "https://freebiescanada.ca/free-cerave-sample-pack/",
       "created": "2026-11-04T06:41:17.534Z",
-      "updated": "2026-11-26T10:45:22.005Z",
+      "updated": "2026-11-26T19:52:41.455Z",
       "sourceRegion": "Canada"
     },
     {
@@ -12545,7 +12860,7 @@
       "used": false,
       "viewed": "",
       "sourceType": "Analyse automatique",
-      "lastChecked": "2026-11-26T10:45:22.003Z",
+      "lastChecked": "2026-11-26T19:52:41.452Z",
       "source": "Freebies Canada · Canada",
       "sources": [
         "Freebies Canada · Canada"
@@ -12555,7 +12870,7 @@
       "id": 235615923814417,
       "url": "https://freebiescanada.ca/canadian-wildlife-calendar/",
       "created": "2026-11-04T06:41:17.531Z",
-      "updated": "2026-11-26T10:45:22.003Z",
+      "updated": "2026-11-26T19:52:41.452Z",
       "sourceRegion": "Canada"
     },
     {
